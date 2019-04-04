@@ -2,6 +2,9 @@
 
 ## How to use this
 
-Try out git and all that
+**bold** _italic_
 
-Try **bold**, try _italic_, try 'code block'
+Here is an ordered list for no reason:
+1. dogs
+2. cats
+3. birds
