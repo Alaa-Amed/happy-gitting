@@ -2,7 +2,9 @@
 
 ## How to use this
 ## All gitters should be **happy!**
-**bold** _italic_
+looking at this pic should do it:
+
+![this is a pic of eminem](eminem.jpg)
 
 Here is an ordered list for no reason:
 1. dogs
